@@ -1,0 +1,10 @@
+C:\Users\ofries\Desktop\POO\2021-22\Cs\MultiF\MultiF\bin\Debug\MultiF.exe.config
+C:\Users\ofries\Desktop\POO\2021-22\Cs\MultiF\MultiF\bin\Debug\MultiF.exe
+C:\Users\ofries\Desktop\POO\2021-22\Cs\MultiF\MultiF\bin\Debug\MultiF.pdb
+C:\Users\ofries\Desktop\POO\2021-22\Cs\MultiF\MultiF\obj\Debug\MultiF.csprojResolveAssemblyReference.cache
+C:\Users\ofries\Desktop\POO\2021-22\Cs\MultiF\MultiF\obj\Debug\MultiF.Principal.resources
+C:\Users\ofries\Desktop\POO\2021-22\Cs\MultiF\MultiF\obj\Debug\MultiF.Properties.Resources.resources
+C:\Users\ofries\Desktop\POO\2021-22\Cs\MultiF\MultiF\obj\Debug\MultiF.csproj.GenerateResource.Cache
+C:\Users\ofries\Desktop\POO\2021-22\Cs\MultiF\MultiF\obj\Debug\MultiF.exe
+C:\Users\ofries\Desktop\POO\2021-22\Cs\MultiF\MultiF\obj\Debug\MultiF.pdb
+C:\Users\ofries\Desktop\POO\2021-22\Cs\MultiF\MultiF\obj\Debug\MultiF.Secondaire.resources
